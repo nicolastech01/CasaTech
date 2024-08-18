@@ -1,0 +1,201 @@
+ 
+ Body { 
+    border-top: 4px solid rgb(42, 122, 228);
+    Color: rgb(0, 0, 0);
+    Background: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: "chakra petch", sans-serif;
+
+    
+}
+
+header {
+    padding: 5px;
+    font-size: 46px;
+    Color: rgb(255, 255, 255);
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Rajdhani:wght@300;400;500;600;700&family=Teko:wght@300..700&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#menu-h{
+    background-color: rgb(37, 37, 39);
+}
+
+#menu-h ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFF;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+
+#menu-h ul li a:hover {
+    background-color: rgb(24, 139, 233);
+}
+
+#menu-h ul li:last-child a {
+    float: right;
+    background-color: rgb(24, 139, 233);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.chamada {
+    color: white;
+    background: rgb(0, 139, 253);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+.chamada-Produto {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+.chamada-Produto img {
+    border: 1px solid #646464;
+    opacity: 0.5;
+    height: 150px;
+}
+
+.chamada-Produto img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(42, 122, 228);
+}
+
+p {
+    font-size: 20px;
+}
+
+.chamada-Categoria {
+    border: 10px solid #ffffff00;
+    padding-inline-start: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Ajuda {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+.Rodape {
+    text-align: center;
+    background-color:  rgb(240, 240, 240);
+    color:  rgb(100, 100, 100);
+    font-size: .75rem;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    line-height: 0.7;
+    font-size: 15px;
+}
+
+article {
+    padding-top: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
