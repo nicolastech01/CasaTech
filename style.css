@@ -208,7 +208,9 @@ p {
 .Ajuda p {
     font-size: 15px;
 }
-
+.insta {
+    height: 15px;
+}
 
 
 
@@ -229,4 +231,14 @@ p {
 article {
     padding-top: 7px;
 }
+
+.signin {
+    padding: 7;
+    margin: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    background: #b1d7ff;
+    border-radius: 5px;
+}
+
 
